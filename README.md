@@ -1,4 +1,4 @@
-# 👋 Luis Rosales Díaz
+#  Luis Rosales Díaz
 
 🎓 Estudiante de Ingeniería de Software
 📍 Heredia, Costa Rica
@@ -71,7 +71,7 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo de software, bas
 
 ## 📁 Proyectos destacados
 
-### 🏥 Plataforma de Gestión Clínica – Centro Pokémon
+### 🏥 Plataforma de Gestión Clínica 
 
 Proyecto académico desarrollado en Programación IV. Consiste en una plataforma para gestionar usuarios, entrenadores, Pokémon, internamientos, tratamientos, citas, facturación, historial clínico, reportes y auditoría.
 
@@ -116,6 +116,5 @@ Además de mi formación en Ingeniería de Software, cuento con experiencia en p
 
 ## 📫 Contacto
 
-* GitHub: Rosales1305
 * Correo: rosalesdiazluis13@gmail.com
 * Ubicación: Heredia, Costa Rica
